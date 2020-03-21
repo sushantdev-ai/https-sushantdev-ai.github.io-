@@ -15,7 +15,7 @@
       left: 0;
       transition: $transition-base;
       opacity: 0;
-      background-color: fade-out($primary, .1);
+      background-color: fade-out(#C800FF, .1);
       &:hover {
         opacity: 1;
       }
@@ -43,7 +43,7 @@
     top: 1rem;
     font-size: 3rem;
     line-height: 3rem;
-    color: $primary;
+    color: #C800FF;
     opacity: 1;
   }
 }
